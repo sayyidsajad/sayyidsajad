@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230707/pngtree-3d-illustration-of-a-laptop-wielding-freelance-developer-image_3791857.jpg" alt="Sayyid Sajad" width="1000"/>
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230707/pngtree-3d-illustration-of-a-laptop-wielding-freelance-developer-image_3791857.jpg" alt="Sayyid Sajad" width="600"/>
 </p>
 
 # Hi there! 👋  
