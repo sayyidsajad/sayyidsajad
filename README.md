@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=2000" alt="Sayyid Sajad" width="200"/>
+  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230707/pngtree-3d-illustration-of-a-laptop-wielding-freelance-developer-image_3791857.jpg" alt="Sayyid Sajad" width="500"/>
 </p>
 
 # Hi there! 👋  
