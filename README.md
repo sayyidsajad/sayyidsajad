@@ -47,11 +47,11 @@ function funFact() {
   return "Being a passionate coder is something crazy, and the best part is fixing a small error, which leads to happiness.";
 }
 
-console.log(currentlyWorkingOn());
-console.log(currentlyLearning());
-console.log(lookingToCollaborate());
-console.log(seekingHelpWith());
-console.log(askMeAbout());
-console.log(howToReachMe());
-console.log(funFact());
+console.log(currentlyWorkingOn());  
+console.log(currentlyLearning());  
+console.log(lookingToCollaborate());  
+console.log(seekingHelpWith());  
+console.log(askMeAbout());  
+console.log(howToReachMe());  
+console.log(funFact());  
 
