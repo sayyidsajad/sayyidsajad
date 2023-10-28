@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-profile-image.jpg" alt="Sayyid Sajad" width="200"/>
+  <img src="https://img.freepik.com/premium-vector/coder-developer-concentrated-working-project-developing-programming-coding-technologies_569013-336.jpg?w=2000" alt="Sayyid Sajad" width="200"/>
 </p>
 
 # Hi there! 👋  
