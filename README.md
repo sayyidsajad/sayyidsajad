@@ -20,7 +20,7 @@ function currentlyWorkingOn() {
   appointments for future dates - Axel Services.";  
 };  
 
-// 🌱 Currently Learning
+// 🌱 Currently Learning  
 function currentlyLearning() {  
   return "I believe in lifelong learning, staying up-to-date with the latest tech trends.";  
 };  
