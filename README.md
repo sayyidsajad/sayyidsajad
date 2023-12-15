@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fw800/background/20230707/pngtree-3d-illustration-of-a-laptop-wielding-freelance-developer-image_3791857.jpg" alt="Sayyid Sajad" width="400"/>
-</p>
 Hi there! 👋
 I'm Sayyid Sajad, a passionate developer with a love for creating innovative solutions. Welcome to my GitHub profile!
 
