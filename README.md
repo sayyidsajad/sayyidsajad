@@ -42,6 +42,7 @@ Others
 	•	💼 LinkedIn: linkedin.com/in/sayyidsajad
 
 📈 GitHub Stats
+
 Let’s Collaborate!
 I’m always open to working on innovative projects and sharing knowledge. Feel free to connect and let’s turn ideas into impactful solutions! 🌟
 
