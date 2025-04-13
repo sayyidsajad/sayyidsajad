@@ -1,66 +1,84 @@
-# Hi, I'm Sayyid Sajad Ottakath 👋
+# Sayyid Sajad Ottakath
 
-I'm a **Full-Stack Developer** with **1 year of experience**, passionate about building scalable, maintainable, and efficient applications. I specialize in both **front-end** and **back-end** development, with a keen focus on **Node.js**, **NestJS**, **React**, and **Angular**. I enjoy working with the latest technologies to create high-quality web applications that deliver great user experiences.
+### Full Stack Developer | Backend Specialist | Cloud Enthusiast
 
-## 🌱 **Technologies & Tools**
+Hi there! I'm **Sayyid Sajad Ottakath**, a passionate and results-oriented Full Stack Developer with expertise in both frontend and backend technologies. I specialize in building scalable, modular, and maintainable solutions, leveraging modern technologies such as **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **NestJS**, **AWS**, and more. I am always looking to challenge myself and stay ahead of the curve with the latest tools and frameworks.
 
-Here are the languages, frameworks, and tools that I’m proficient in:
+Currently, I am working as a Full Stack Developer, where I focus on **cloud computing** and **microservices architecture**. I aim to further hone my skills and take on greater challenges, with an eye on transitioning into a Senior Developer role in the next few years.
 
-- **Languages:** JavaScript, TypeScript
-- **Front-End:** React, Angular, Next.js, Flutter, HTML, CSS, Tailwind CSS, Bootstrap
-- **Back-End:** Node.js, NestJS, GraphQL, REST, FastAPI
-- **Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, CI/CD
-- **Development Tools:** Git, GitHub, Postman, Nginx, Figma, Swagger, GitHub Actions
-- **AI & LLMs:** Gemini AI, OpenAI, Ollama, Claude, Dialog Flow
+## 🔧 Skills & Technologies
 
-## 🔥 **Highlighted Projects**
+### Languages & Frameworks
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React, Angular, Next.js, Tailwind CSS, Bootstrap, PrimeNG, Angular Material
+- **Backend**: Node.js, NestJS, Express.js, GraphQL, REST APIs
+- **Databases**: PostgreSQL, MongoDB, Redis, Elasticsearch, Prisma
+- **Cloud & DevOps**: AWS (EC2, S3, SES, RDS), Docker, CI/CD (GitHub Actions)
+- **Others**: Git, GitHub, Swagger, Nginx, Payload CMS, Moon Modeler
 
-Here are some of my top projects that showcase my skills:
+### Tools & Libraries
+- **State Management**: NgRx, Jotai
+- **Version Control**: Git, GitHub, GitLab
+- **Testing**: Jest, Mocha, Cypress
+- **Deployment & Hosting**: Vercel, Netlify, Fly.io
+- **AI & LLMs**: Gemini AI, OpenAI, Claude, DialogFlow
 
-### 1. [**Talent Acquisition System**](https://github.com/yourusername/talent-acquisition-system)
-- **Description:** A scalable and efficient talent acquisition system that parses job descriptions, generates dynamic interview questions, and evaluates candidates based on JD criteria.
-- **Technologies:** NestJS, PostgreSQL, Prisma, React, Gemini AI
-- **Features:** JD parsing, dynamic question generation, candidate evaluation, web interface
+## 🚀 Projects
 
-### 2. [**Inventory Management System for Fire Department**](https://github.com/yourusername/inventory-management-system)
-- **Description:** An inventory management system to track and manage resources for a fire department, ensuring accurate and real-time updates.
-- **Technologies:** NestJS, PostgreSQL, React, AWS
-- **Features:** Real-time updates, role-based access control, item tracking
+### [Talent Acquisition System](https://github.com/your-username/talent-acquisition-system)
+- **Description**: A comprehensive system for automating the recruitment process. This system allows users to parse job descriptions, generate dynamic interview questions, and evaluate candidates based on their responses.
+- **Technologies**: NestJS, PostgreSQL, Prisma, GraphQL, Gemini AI
+- **Link**: [GitHub Repo](https://github.com/your-username/talent-acquisition-system)
 
-### 3. [**Job Data Collection System**](https://github.com/yourusername/job-data-collection-system)
-- **Description:** An automated system for scraping job postings and updating job data daily, built with Playwright/Puppeteer and integrated with multiple APIs.
-- **Technologies:** Node.js, Puppeteer, MongoDB, Adzuna API
-- **Features:** Daily job scraping, freshness maintenance, job status updates
+### [Inventory Management System for Fire Department](https://github.com/your-username/inventory-management-system)
+- **Description**: A robust inventory management system designed specifically for a fire department. It helps track equipment, manage stock levels, and ensure timely restocking.
+- **Technologies**: Node.js, MongoDB, React, AWS EC2
+- **Link**: [GitHub Repo](https://github.com/your-username/inventory-management-system)
 
-## 💼 **Professional Background**
+### [Job Scraping System](https://github.com/your-username/job-scraping-system)
+- **Description**: A job scraping system that collects job postings daily from various career websites, extracting details like job titles, descriptions, and requirements.
+- **Technologies**: Node.js, Puppeteer, MongoDB, PostgreSQL
+- **Link**: [GitHub Repo](https://github.com/your-username/job-scraping-system)
 
-I am currently a **Full-Stack Developer** at [Yohire Software Services](https://yohire.in), where I work on building scalable applications with a focus on **backend development**, **cloud infrastructure**, and **frontend technologies**. I am involved in designing and implementing microservices, CI/CD pipelines, and cloud-based solutions using AWS. In my previous roles, I have contributed to building various projects ranging from e-commerce platforms to data collection systems, focusing on clean code practices, modular architecture, and team collaboration.
+## 💼 Experience
 
-## 🎓 **Education**
+### Full Stack Developer at Yohire Software Services
+*January 2024 – March 2025*  
+- Developed scalable web applications using **Angular** and **NestJS**.  
+- Built microservices architecture and deployed on **AWS EC2**.  
+- Integrated various **cloud** services (S3, RDS, SES) for better scalability and performance.  
+- Led the implementation of automated job data collection systems using **Playwright** and **Puppeteer**.
 
-- **Bachelor of Computer Applications (BCA)** - [Your University]
-- **Certifications:**
-  - **AWS Certified Developer – Associate**
-  - **JavaScript Algorithms and Data Structures** – FreeCodeCamp
+### Junior Full Stack Developer at Cantilever Labs
+*May 2023 – December 2023*  
+- Worked on the development of internal tools with **React** and **Node.js**.  
+- Participated in daily standups and code reviews as part of an Agile team.  
+- Implemented **RESTful APIs** and **GraphQL** for seamless data retrieval.
 
-## 📬 **Contact Information**
+## 🎓 Education & Certifications
 
-Feel free to connect with me on the following platforms:
-- [LinkedIn](https://www.linkedin.com/in/sayyd-sajad/)
-- [GitHub](https://github.com/yourusername)
-- [Portfolio Website](https://www.yourportfolio.com)
+### Bachelor of Computer Applications (BCA)
+*University Name* | *Graduation Year*  
+- Relevant Courses: Data Structures, Algorithms, Web Development, Database Management
 
-## 🌍 **Other Information**
+### Certifications:
+- **AWS Certified Solutions Architect – Associate**
+- **MongoDB Certified Developer**
+- **React Developer Nanodegree** by Udacity
 
-- I’m currently learning **Kubernetes** and **GraphQL** to broaden my skills in cloud-native applications and modern web technologies.
-- I enjoy staying active and have been practicing **Muay Thai** to maintain a healthy lifestyle.
-- I'm always exploring new ways to improve the performance and scalability of my applications.
+## 📞 Contact Information
 
-## 📈 **GitHub Stats**
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Email**: your.email@example.com
+- **Personal Website**: [your-website.com](https://your-website.com)
 
-![Sayyid Sajad Ottakath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+## 🌱 Additional Information
+
+- Currently exploring **machine learning** and **cloud computing** to broaden my technical skillset.
+- Contributing to **open-source** projects, especially those that focus on improving developer workflows and accessibility.
+- Passionate about **sustainable development** and implementing eco-friendly practices in tech projects.
 
 ---
 
-Thanks for visiting my GitHub profile! Let's build something amazing together!
+Thank you for visiting my GitHub profile! I'm always open to new opportunities and collaborations.
